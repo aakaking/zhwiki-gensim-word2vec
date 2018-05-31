@@ -1,6 +1,6 @@
 # zhwiki-gensim-word2vec
 
-## The goal of this assignment is to train a Word2Vec using gensim over zhwiki(http://dumps.wikimedia.org/zhwiki/latest/) data and show the result by TSNE.
+The goal of this assignment is to train a Word2Vec using gensim over zhwiki(http://dumps.wikimedia.org/zhwiki/latest/) data and show the result by TSNE.
 
 ## 用Wikipedia的中文数据训练Word2Vec
 
